@@ -1,0 +1,18 @@
+{
+  "name": "NinjaBot",
+  "version": "1.0.0",
+  "description": "A simple and fun discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MattOnCode",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "enmap": "^4.8.4",
+    "fs": "0.0.1-security",
+    "giphy-js-sdk-core": "^1.0.6"
+  }
+}
